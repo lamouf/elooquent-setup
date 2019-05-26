@@ -1,4 +1,6 @@
 {
+  "name": "mouflam/elosetup",
+  "description": "A short description of what your package does",
     "require": {
         "illuminate/database": "~5.0",
         "illuminate/events": "5.0.*"
